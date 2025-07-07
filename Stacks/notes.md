@@ -44,3 +44,4 @@
 - The problem hints at "last in, first out" (LIFO) behavior, or you need to access the most recent unprocessed element.
 
 If you see any of these cues in a problem statement, consider whether a stack could simplify your solution!
+
