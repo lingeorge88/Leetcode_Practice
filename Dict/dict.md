@@ -1,8 +1,5 @@
 Absolutely! Here's the expanded `.md` file with **time complexities** added for each method, plus a deeper dive into common **LeetCode problem patterns** and how `dict` and `Counter` shine in those situations 🚀
 
----
-
-```markdown
 # 🧠 Python Dictionary & Counter Quick Reference
 
 ## 📘 Regular `dict` Methods
@@ -71,7 +68,3 @@ Use `dict` for dynamic adjacency lists or parent lookup:
 
 💡 **Tip**: Anytime you're counting, grouping, caching, or tracking things uniquely, `dict` and `Counter` are your go-to data structures. They’re the Swiss Army knives of coding interviews.
 
----
-
-Want this turned into a PDF, printable flashcard format, or broken up by problem difficulty with examples? Just say the word 📄🧠
-```
