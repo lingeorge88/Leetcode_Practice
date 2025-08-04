@@ -1,8 +1,6 @@
 ﻿# Python Tips for Coding Interviews
 
 
-
-
 ## Variable Assignments
 ```python
 x, y, z = 0, 'a', True  #multiple assignments
@@ -10,8 +8,6 @@ x++ # invalid
 x += 1 # valid
 None # null type
 ```
-
-
 
 ## Math
 ```python
@@ -222,6 +218,10 @@ print(maxHeap[0] * -1)
 
 while len(minHeap):
 	print(-1 * heapq.heappop(maxHeap))
+
+# build heaps from initial values
+arr = [2, 1, 8, 4, 5]
+heapq.heapify(arr)
 ```
 
 
