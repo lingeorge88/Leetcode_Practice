@@ -120,7 +120,7 @@ queue.pop() # pop from right
 ```
 
 ## Hashset
-```pyton
+```python
 #initialize a set
 hashset = set()
 
